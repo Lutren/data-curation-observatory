@@ -2,8 +2,8 @@
 
 Local-first data curation workflow using manifests, technical cards and CERTEZA/INFERENCIA/INCOGNITA reports.
 
-Status: `STAGED_LOCAL_ONLY`. This staging repo is local-only until secret
-scan, path scrub, claims scan, license review and ActionGate approval pass.
+Status: `PUBLICATION_CANDIDATE`. This repo is ready for public push only after
+secret scan, path scrub, claims scan and ActionGate evidence pass.
 
 ## What This Includes
 
@@ -17,7 +17,7 @@ See `PRIVATE_EXCLUSIONS.md`.
 
 ## License
 
-MIT candidate; legal review still required before public release.
+MIT License.
 
 ## Next Steps
 
