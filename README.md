@@ -2,8 +2,20 @@
 
 Local-first data curation workflow using manifests, technical cards and CERTEZA/INFERENCIA/INCOGNITA reports.
 
-Status: `PUBLICATION_CANDIDATE`. This repo is ready for public push only after
-secret scan, path scrub, claims scan and ActionGate evidence pass.
+Status: public-safe toolkit. Use it with synthetic or reviewed inputs first; do
+not point it at private folders, secrets, paid content, or unreleased IP without
+a separate release gate.
+
+## Problems It Helps With
+
+- Research folder chaos: turn loose notes and files into manifests and technical
+  cards.
+- Duplicated sources: preserve the useful ficha and mark redundant source files
+  for review instead of copying everything forever.
+- Mixed certainty: separate `CERTEZA`, `INFERENCIA`, and `INCOGNITA` so agents
+  stop treating every paragraph as fact.
+- Publication risk: create review artifacts before deciding what can become
+  open source, paid product, internal research, or private material.
 
 ## What This Includes
 
