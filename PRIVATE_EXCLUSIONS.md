@@ -3,7 +3,7 @@
 The following material must not enter this public repo:
 
 - Secrets, tokens, credentials, account sessions and browser profiles.
-- Local user paths, OneDrive personal paths and E: roots.
+- Local machine-specific paths and private external-drive roots.
 - Raw Downloads texts and raw ZIPs.
 - Private RPG, TCG, WorldPulse runtime, assets, scenes, scripts and builds.
 - Full MEDIOEVO books, canon vaults and commercial bundles.
