@@ -10,7 +10,7 @@ Local-first data curation workflow using manifests, technical cards and CERTEZA/
 |---|---|
 | repo | `data-curation-observatory` |
 | status | `STAGED_LOCAL_ONLY` |
-| license | MIT candidate; legal review still required before public release. |
+| license | MIT License. |
 | fixtures | synthetic only |
 | private boundary | see `PRIVATE_EXCLUSIONS.md` |
 
